@@ -5,7 +5,7 @@ import {
 import { Assignment } from "./components/Pages/Assignment";
 import { About } from "./components/Pages/About";
 import { Home } from "./components/Pages/Home";
-import React from "react";
+
 import ReactDOM from "react-dom/client";
 
 

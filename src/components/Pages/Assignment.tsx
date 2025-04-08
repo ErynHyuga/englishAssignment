@@ -1,4 +1,3 @@
-import React from 'react'
 import { HomeButton } from '../homebutton'
 import { Language } from '../language';
 

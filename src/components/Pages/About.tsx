@@ -1,4 +1,4 @@
-import React from 'react'
+
 import { HomeButton } from '../homebutton';
 
 type Props = {}

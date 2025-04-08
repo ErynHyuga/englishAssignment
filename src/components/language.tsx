@@ -1,8 +1,5 @@
 import React from 'react'
 import styles from './language.module.css'
-// Fix the import path for Link
-import { Link } from 'react-router'
-import { HomeButton } from './homebutton';
 
 type Props = {}
 
