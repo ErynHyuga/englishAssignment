@@ -1,9 +1,8 @@
 
 import { HomeButton } from '../homebutton';
 
-type Props = {}
 
-export const About = (props: Props) => {
+export const About = () => {
   return (
     <>
         <div>

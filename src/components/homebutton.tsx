@@ -1,9 +1,9 @@
 import { Link } from 'react-router'
 import styles from './homebutton.module.css'
 
-type Props = {}
 
-export const HomeButton = (props: Props) => {
+
+export const HomeButton = () => {
 
     return (
         <>

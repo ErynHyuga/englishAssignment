@@ -1,9 +1,7 @@
 import React from 'react'
 import styles from './language.module.css'
 
-type Props = {}
-
-export const Language: React.FC<Props> = () => {
+export const Language: React.FC = () => {
     const languageSteps = [
         {
             title: "🧠 Introduction: Why Learn a Language?",
